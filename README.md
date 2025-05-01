@@ -52,4 +52,4 @@ Projek ini mengimplementasikan model deep learning untuk mengklasifikasikan gamb
 ```
 
 ## 📈 Hasil Submission Dicoding oleh Reviewer
-![Hasil Submission](gambar/hasil_submission.jpg)
+![Hasil Submission](gambar/hasil_review.png)
